@@ -1,6 +1,6 @@
 # 🗄️ LLMVault v0.1
 
-> A highly secure, VS Code-styled AI Workspace for Hackers. 
+
 > Run Local LLaMA models offline, or Bring Your Own Key (BYOK) for Cloud AIs.
 
 <img width="1919" height="987" alt="89" src="https://github.com/user-attachments/assets/91aa2424-687c-4649-9d90-9db52e46bc17" />
