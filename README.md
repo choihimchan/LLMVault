@@ -3,7 +3,8 @@
 > A highly secure, VS Code-styled AI Workspace for Hackers. 
 > Run Local LLaMA models offline, or Bring Your Own Key (BYOK) for Cloud AIs.
 
-![LLMVault UI](https://github.com/choihimchan/LLMVault/assets/YOUR_IMAGE_LINK) 
+<img width="1919" height="987" alt="89" src="https://github.com/user-attachments/assets/91aa2424-687c-4649-9d90-9db52e46bc17" />
+
 
 ## 💡 Why I built this?
 I wanted an AI chat interface that feels like my natural workspace , respects my privacy, and doesn't lock me into a single cloud provider. **LLMVault** is a boilerplate that gives you full control over your AI interactions.
