@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- 🟢 [CUSTOM] Backend & Security Rules ---
+# 1. API Keys (내 지갑 방어)
+**/.env
+.env
+
+# 2. Database (DB 기록 방어)
+**/chat_history.db
+*.db
+
+# 3. Local AI Models (용량 초과 방어)
+llamma/
+*.gguf
+*.exe
+*.dll
+
+# 4. Python Cache (파이썬 찌꺼기)
+**/__pycache__/
+*.pyc
